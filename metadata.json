@@ -1,0 +1,6 @@
+{
+  "name": "Meteo Comuni Toscani 2.0",
+  "description": "Una dashboard per scoprire comuni casuali della Toscana e il loro meteo attuale, generato dall'IA, con una rotazione omogenea tra le province.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
